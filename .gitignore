@@ -1,0 +1,31 @@
+# OS が生成するもの
+Thumbs.db
+.DS_Store
+
+# 依存パッケージ
+node_modules
+
+# ログファイル
+npm-debug.log
+*.log
+
+# 共通の設定ファイル
+.env
+config.js
+
+# lint のキャッシュファイル
+.eslintcache
+.stylelintcache
+
+# IDE, Editor
+.idea
+.vscode
+
+# ダンプファイル
+init-wp.sql
+
+# nodenv
+.node-version
+
+# Vetur
+vetur.config.js
